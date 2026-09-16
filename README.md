@@ -1,6 +1,6 @@
 # Judicial Design System — Vendor Reference Release V1.0
 
-本交付包提供協力開發廠商依照 Judicial 現有 Design Token 與 UI 視覺規範，調整既有系統版型樣式。
+提供協力開發廠商依照 Judicial 現有 Design Token 與 UI 視覺規範，調整既有系統版型樣式。
 
 ---
 
@@ -159,4 +159,4 @@ Vendor Application
 = 廠商自己的系統與版型
 ```
 
-廠商不需要照搬 Judicial 的 HTML，只需依既有系統架構套用 Design Token，並以 Reference UI 對照元件視覺。
+不需要照搬 Judicial 的 HTML，只需依既有系統架構套用 Design Token，並以 Reference UI 對照元件視覺。
