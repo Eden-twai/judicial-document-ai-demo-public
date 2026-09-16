@@ -1,6 +1,6 @@
 # Judicial Design System — Vendor Reference Release V1.0
 
-本交付包提供外部開發廠商依照 Judicial 現有 Design Token 與 UI 視覺規範，調整既有系統版型樣式。
+本交付包提供協力開發廠商依照 Judicial 現有 Design Token 與 UI 視覺規範，調整既有系統版型樣式。
 
 ---
 
